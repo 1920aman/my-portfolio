@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/1920aman/my-portfolio/static/css/main.01c1b910.css",
+    "main.js": "/1920aman/my-portfolio/static/js/main.bab9fbef.js",
+    "index.html": "/1920aman/my-portfolio/index.html",
+    "main.01c1b910.css.map": "/1920aman/my-portfolio/static/css/main.01c1b910.css.map",
+    "main.bab9fbef.js.map": "/1920aman/my-portfolio/static/js/main.bab9fbef.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.01c1b910.css",
+    "static/js/main.bab9fbef.js"
+  ]
+}
