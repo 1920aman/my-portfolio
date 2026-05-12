@@ -12,7 +12,7 @@ import Footer from "./components/Footer";
 
 const App = () => {
   return (
-    <div className="min-h-screen bg-bg-primary font-outfit antialiased">
+    <div className="min-h-screen bg-black text-white ">
       {/* Sticky navigation */}
       <Navbar />
 
@@ -21,22 +21,22 @@ const App = () => {
         <Hero />
 
         {/* Subtle alternating section backgrounds */}
-        <div className="bg-bg-primary">
+        <div className="bg-black">
           <About />
         </div>
-        <div className="bg-bg-secondary">
+        <div className="bg-gray-900">
           <Education />
         </div>
-        <div className="bg-bg-primary">
+        <div className="bg-black">
           <Experience />
         </div>
-        <div className="bg-bg-secondary">
+        <div className="bg-gray-900">
           <Skills />
         </div>
-        <div className="bg-bg-primary">
+        <div className="bg-black">
           <Projects />
         </div>
-        <div className="bg-bg-secondary">
+        <div className="bg-gray-900">
           <Contact />
         </div>
       </main>

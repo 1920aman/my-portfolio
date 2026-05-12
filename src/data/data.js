@@ -33,8 +33,8 @@ export const education = [
     period: "2023 – 2026",
     gpa: "7/10",
     highlights: [
-      "Senior thesis: Real-time collaborative code editor using CRDTs",
-      "Teaching Assistant for Data Structures & Algorithms",
+      // "Senior thesis: Real-time collaborative code editor using CRDTs",
+      // "Teaching Assistant for Data Structures & Algorithms",
     ],
   },
   {
@@ -44,7 +44,7 @@ export const education = [
     period: "2020 – 2023",
     gpa: "8.5/10",
     highlights: [
-      "Associate-level certification",
+      // "Associate-level certification",
     ],
   },
 ];
@@ -72,10 +72,10 @@ export const experience = [
       "Worked on Figma's plugin marketplace UI and developer tooling. Delivered a search-filter component used by 200K plugin developers.",
     stack: ["React", "Node.js", "Java","Python"],
     achievements: [
-       "45 days java training at slog solution, Dehradun",
+      "45 days java training at slog solution, Dehradun",
       "45 days frontend development training at prodot it solution, Haldwani",
       "Completed 3+ personal projects using React and Node.js, showcasing full-stack development skills",
-    
+      "30+ hrs MERN stack project development experience, including RESTful APIs and responsive UIs",
     ],
   },
 ];
